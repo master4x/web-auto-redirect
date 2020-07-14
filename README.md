@@ -33,17 +33,6 @@ Additional: If you dont want to type `your-domain.com/redirect.html`, you can re
 > **Note:** Your lovely Browser allways looks for a `index.html` or `index.php`
 
 
-## Diagram
-
-I hope you already understood, that this is no rocket science - in case that you dont...
-
-```mermaid
-graph LR
-A[Browser]
-A --> C(redirect.html)
-C --> D(destination page)
-```
-
 #### License
 This code is under MIT licence, you can find the complete file here: www.mylicencefile.com
 
