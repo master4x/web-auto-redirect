@@ -34,7 +34,7 @@ Additional: If you dont want to type `your-domain.com/redirect.html`, you can re
 
 
 #### License
-This code is under MIT licence, you can find the complete file here: www.mylicencefile.com
+This code is under MIT license.
 
 Copyright 2020 github.com/master4x
 
