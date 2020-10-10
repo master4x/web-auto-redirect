@@ -3,7 +3,7 @@
 This repo has multiple webite redirect solution for you.
 
 
-## Types
+## Redirect Types
 
 | Redirect type    	| Hosting     	| File type 	| Server type 	| URL/Domain   	| 301 support 	| Included? 	|
 |------------------	|-------------	|-----------	|-------------	|--------------	|-------------	|-----------	|
@@ -17,6 +17,15 @@ This repo has multiple webite redirect solution for you.
 | jQuery           	| Client-side 	| .html     	| multiple    	| URL only     	| no          	| no        	|
 
 > All included examples will redirect to example.com
+
+
+## HTTP Status Codes
+
+| Status Code 	| Code name         	| Code discription       	|
+|-------------	|-------------------	|------------------------	|
+| 300         	| Multiple Choices  	|                        	|
+| 301         	| Moved Permanently 	| Permanent URL-redirect 	|
+| 302         	| Found             	| Temporary URL-redirect 	|
 
 
 #### License
